@@ -14,7 +14,7 @@ function sayHiToGrandma(string) {
   let answer = "I can't hear you!";
   
   if(string === 'I love you, Grandma.') {
-    answer = 
+    answer = "I love you, too.";
   }
   
   return answer;
